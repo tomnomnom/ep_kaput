@@ -1,6 +1,6 @@
 ![Publish Status](https://github.com/ether/ep_kaput/workflows/Node.js%20Package/badge.svg) ![Backend Tests Status](https://github.com/ether/ep_kaput/workflows/Backend%20tests/badge.svg)
 
-# Try to brake Etherpad plugin system!
+# Try to break Etherpad plugin system!
 
 This plugin is designed to be malicious and if installed it's purpose is to crash your Etherpad instance and make it unavailable.
 
